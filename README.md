@@ -75,3 +75,10 @@ Some more work needs to be done, including reducing the quantity of
 intermediate components by removing duplicates, lowering the number of
 components in many sequences, reanalysis of decomposition
 configurations, and of course quality checking and corrections.
+
+# See also
+
+- [cjkvi/cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) for similar (but
+  probably more thorough) composition data in [ideographic description
+  sequence](https://en.wikipedia.org/wiki/Chinese_character_description_languages#Ideographic_Description_Sequences)
+  format
