@@ -60,7 +60,7 @@ The possible configurations and their meanings are:
 | `c`         | component       |   0 |
 | `m.*`       | modified in some way, e.g. `me`=equivalent, `msp`=special, `mo`=outline, `ml`=left radical version |   1 |
 | `w.*`       | second constituent contained within first in some way, e.g. `w`=within at the center, `wbl`=within at bottom left |   2 |
-| `ba|d` | second between first moving across or downwards |   2 |
+| `ba\|d`     | second between first moving across or downwards |   2 |
 | `lock`      | components locked together |   2 |
 | `s.*`       | first component surrounds second, e.g. `s`=surrounds fully, `str`=surrounds around the top-right |   2 |
 | `a`         | flows across    | >=2 |
