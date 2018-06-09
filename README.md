@@ -1,3 +1,5 @@
+### Note: This repo is unmaintained. For better data in a standard format that is actively maintained, I strongly recommend using [cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) instead (see ids.txt)
+
 # CJK Decomposition Data
 
 The CJK Decomposition Data File is a graphical analysis of the approx
